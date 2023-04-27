@@ -31,5 +31,5 @@ Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objet
 4. Executar o arquivo com funcionalidade
 ```
 
-## 👟 Próximos passo:
+## 👟 Próximo passo:
 - [ ] Otimizar os códigos, diminuindo a quantidade de linhas e torna-lo mais simples de compreender.
