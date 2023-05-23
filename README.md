@@ -1,4 +1,4 @@
-> *"⁠Não sou perfeccionista, mas gosto de sentir que as coisas são bem feitas. Mais do que isso, sinto uma necessidade infinita de aprender, melhorar, me envolver, não apenas para agradar o treinador e os torcedores, mas também para me sentir satisfeito."* 
+> *"⁠É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada."* 
 > - *Mark Zuckerberg*
 
 # Exercicios_EstruturaCondicional
