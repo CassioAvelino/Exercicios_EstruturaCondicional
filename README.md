@@ -4,6 +4,8 @@
 # Exercicios_EstruturaCondicional
 Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos] - Seção 5 - Nelio Alves.
 
+Problemas resolvidos para treinar os métodos Condicionais.
+
 1️⃣ Programa recebe um número e determina se é negativo ou não negativo. <br>
 2️⃣ Programa recebe um número e determina se é impar ou par. <br>
 3️⃣ Programa recebe dois números e determina se eles são múltiplos entre si. <br>
