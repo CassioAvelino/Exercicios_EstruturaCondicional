@@ -6,14 +6,14 @@ Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objet
 
 Problemas resolvidos para treinar os métodos Condicionais.
 
-1️⃣ Programa recebe um número e determina se é negativo ou não negativo. <br>
-2️⃣ Programa recebe um número e determina se é impar ou par. <br>
-3️⃣ Programa recebe dois números e determina se eles são múltiplos entre si. <br>
-4️⃣ Programa recebe um horário inicial e um horário final e determina a quantidade de horas. <br>
-5️⃣ Programa com base em uma tabela de preços, recebe um código e uma quantidade e exibe o valor final. <br>
-6️⃣ Programa que recebe um número e determina em que intervalo de números ele está. <br>
-7️⃣ Programa recebe os valores de X e Y. E determina qual a posição do ponto. <br>
-8️⃣ Programa calcula imposto de renda, de uma país imaginario com valores inventados. <br>
+⭐ Programa recebe um número e determina se é negativo ou não negativo. <br>
+⭐ Programa recebe um número e determina se é impar ou par. <br>
+⭐ Programa recebe dois números e determina se eles são múltiplos entre si. <br>
+⭐ Programa recebe um horário inicial e um horário final e determina a quantidade de horas. <br>
+⭐ Programa com base em uma tabela de preços, recebe um código e uma quantidade e exibe o valor final. <br>
+⭐ Programa que recebe um número e determina em que intervalo de números ele está. <br>
+⭐ Programa recebe os valores de X e Y. E determina qual a posição do ponto. <br>
+⭐ Programa calcula imposto de renda, de uma país imaginario com valores inventados. <br>
 > Finalizado ✅
 
 ## Tecnologias Utilizadas:
